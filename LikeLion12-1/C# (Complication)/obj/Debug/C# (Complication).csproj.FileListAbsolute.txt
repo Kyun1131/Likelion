@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\C# (Complication)\bin\Debug\C# (Complication).exe.config
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\C# (Complication)\bin\Debug\C# (Complication).exe
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\C# (Complication)\bin\Debug\C# (Complication).pdb
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\C# (Complication)\obj\Debug\C# (Complication).csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\C# (Complication)\obj\Debug\C# (Complication).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\C# (Complication)\obj\Debug\C# (Complication).exe
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\C# (Complication)\obj\Debug\C# (Complication).pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\TodayTask2\bin\Debug\TodayTask2.exe.config
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\TodayTask2\bin\Debug\TodayTask2.exe
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\TodayTask2\bin\Debug\TodayTask2.pdb
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\TodayTask2\obj\Debug\TodayTask2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\TodayTask2\obj\Debug\TodayTask2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\TodayTask2\obj\Debug\TodayTask2.exe
+C:\Users\user\Documents\GitHub\Likelion\LikeLion12-1\TodayTask2\obj\Debug\TodayTask2.pdb
