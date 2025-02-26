@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\SmithIdle\SmithIdle\bin\Debug\SmithIdle.exe.config
+C:\Users\user\Documents\GitHub\Likelion\SmithIdle\SmithIdle\bin\Debug\SmithIdle.exe
+C:\Users\user\Documents\GitHub\Likelion\SmithIdle\SmithIdle\bin\Debug\SmithIdle.pdb
+C:\Users\user\Documents\GitHub\Likelion\SmithIdle\SmithIdle\obj\Debug\SmithIdle.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\SmithIdle\SmithIdle\obj\Debug\SmithIdle.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\SmithIdle\SmithIdle\obj\Debug\SmithIdle.exe
+C:\Users\user\Documents\GitHub\Likelion\SmithIdle\SmithIdle\obj\Debug\SmithIdle.pdb

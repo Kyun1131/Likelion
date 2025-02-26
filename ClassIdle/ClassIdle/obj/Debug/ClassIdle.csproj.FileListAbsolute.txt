@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\ClassIdle\ClassIdle\obj\Debug\ClassIdle.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\ClassIdle\ClassIdle\obj\Debug\ClassIdle.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\ClassIdle\ClassIdle\bin\Debug\ClassIdle.exe.config
+C:\Users\user\Documents\GitHub\Likelion\ClassIdle\ClassIdle\bin\Debug\ClassIdle.exe
+C:\Users\user\Documents\GitHub\Likelion\ClassIdle\ClassIdle\bin\Debug\ClassIdle.pdb
+C:\Users\user\Documents\GitHub\Likelion\ClassIdle\ClassIdle\obj\Debug\ClassIdle.exe
+C:\Users\user\Documents\GitHub\Likelion\ClassIdle\ClassIdle\obj\Debug\ClassIdle.pdb

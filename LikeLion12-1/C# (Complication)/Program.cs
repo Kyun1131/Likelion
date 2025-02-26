@@ -623,113 +623,80 @@ namespace C___Complication_
 
 
 
+            // 2025.02.25
 
-            // 가지고 있는 소지금을 입력하세요
+            // swith문 사용하기
+            // if문과 기능은 같지만 if문보다 많은 코드를 작성할 때 용이하다.
 
-            //("단단한 바닷가재", 1, 65)
-            //("커다란 키조개", 2, 130)
-            //("꽝꽝 언 고등어", 4, 440)
-            //("코모도왕도마뱀", 8, 880)
-            //("뾰족한 돛새치", 16, 1760)
-            //("천산갑", 32, 3520)
+            /*int day = 3;  // case 3
 
-            // 2단계
-            //캐릭터 이름
-            //공격력 : 100 + 1
-            /*int gold = 0;
-            int atk = 10;
-            string name = "z1존멋사z";
-            string equippedWeapon = "맨손"; // 기본 착용 무기
-
-            Console.Write("당신의 소지금을 입력해 주세요. : ");
-
-            // 예외 처리 추가
-            if (!int.TryParse(Console.ReadLine(), out gold) || gold < 0)
+            switch (day)
             {
-                Console.WriteLine("잘못된 입력입니다. 숫자를 입력해 주세요.");
-                return;
-            }
-
-            // 무기 데이터 (무기 이름, 공격력 증가량, 가격)
-            (string weapon, int bonusAtk, int price)[] weapons =
-            {
-                ("단단한 바닷가재", 1, 65),
-                ("커다란 키조개", 2, 130),
-                ("꽝꽝 언 고등어", 4, 440),
-                ("코모도왕도마뱀", 8, 880),
-                ("뾰족한 돛새치", 16, 1760),
-                ("천산갑", 32, 3520)
-            };
-
-            while (true)
-            {
-                Console.WriteLine($"\n{name}, 현재 소지금: {gold} 골드");
-                Console.WriteLine("구매 가능한 무기 목록:");
-
-                int index = 1;
-                var availableWeapons = new List<(int, string, int, int)>();
-                foreach (var (weapon, bonusAtk, price) in weapons)
-                {
-                    if (gold >= price) // 보유 골드로 구매 가능한 무기만 표시
-                    {
-                        availableWeapons.Add((index, weapon, bonusAtk, price));
-                        Console.WriteLine($"[{index}] {weapon} (공격력 +{bonusAtk}) - {price} 골드");
-                        index++;
-                    }
-                }
-
-                if (availableWeapons.Count == 0)
-                {
-                    Console.WriteLine("소지금이 부족하여 구매할 수 있는 무기가 없습니다.");
+                case 1:
+                    Console.WriteLine("월요일");
                     break;
-                }
+                case 2:
+                    Console.WriteLine("화요일");
+                    break;
+                case 3:
+                    Console.WriteLine("수요일");
+                    break;
+                case 4:
+                    Console.WriteLine("목요일");
+                    break;
+                case 5:
+                    Console.WriteLine("금요일");
+                    break;
+                default:
+                    Console.WriteLine("유효하지 않은 요일");
+                    break;
+            }*/
 
-                Console.Write("\n구매할 무기의 번호를 입력하세요 (0 입력 시 구매 종료): ");
-                if (!int.TryParse(Console.ReadLine(), out int choice) || choice < 0 || choice > availableWeapons.Count)
-                {
-                    Console.WriteLine("잘못된 입력입니다. 다시 입력해 주세요.");
-                    continue;
-                }
 
-                if (choice == 0) break; // 구매 종료
 
-                var selectedWeapon = availableWeapons[choice - 1];
+            // for문으로 반복하기
+            /*for (int i= 1; i <= 5; i++) // 초기화; 조건문; 증감식;
+            {
+                Console.WriteLine($"숫자: {i}");
+            }*/
 
-                gold -= selectedWeapon.Item4; // 가격 차감
-                atk = 10 + selectedWeapon.Item3; // 공격력 업데이트
-                equippedWeapon = selectedWeapon.Item2; // 착용 무기 변경
 
-                Console.WriteLine($"{selectedWeapon.Item2}을(를) 장착하였습니다! 남은 소지금: {gold} 골드");
+            // for문으로 무한 반복하기
+            // 1. 뚜따식
+            /*for (; ; )
+            {
+                Console.WriteLine("무한 루프 실행");
+            }*/
 
-                // 추가 구매 여부 확인
-                while (true)
-                {
-                    Console.Write("\n더 구매하시겠습니까? (Y/N): ");
-                    string answer = Console.ReadLine().Trim().ToUpper();
+            //2. while사용
+            /*int count = 0; // 초기화
+            while (true) // 조건식
+            {
+                Console.WriteLine("무한 루프 실행");
+                count++; // 증가, 감소
 
-                    if (answer == "Y")
-                    {
-                        break; // 다시 무기 구매 목록 표시
-                    }
-                    else if (answer == "N")
-                    {
-                        goto Finish; // 구매 종료 후 결과 출력
-                    }
-                    else
-                    {
-                        Console.WriteLine("잘못된 입력입니다. 'Y' 또는 'N'을 입력해 주세요.");
-                    }
-                }
-            }
+                if (count == 3) break; // 무한 루프 탈출 조건
+            }*/
 
-        Finish:
-            // 결과 출력
-            Console.WriteLine("\n====================");
-            Console.WriteLine($"이름: {name}");
-            Console.WriteLine($"착용 무기: {equippedWeapon}");
-            Console.WriteLine($"최종 공격력: {atk}");
-            Console.WriteLine($"남은 소지금: {gold} 골드");
-            Console.WriteLine("====================");*/
+
+            // for문으로 1부터 4까지 팩토리얼 값 출력하기
+
+
+
+            // 랜덤
+            Random rand = new Random(); // Random 객체를 생성한다.
+
+            // 랜덤에 반복문 사용
+
+            /*int randomInrange = 0;
+            for(int i =0; i<100; i++)
+            {
+                randomInrange = rand.Next(5, 15);
+                Console.WriteLine("5부터 14까지: " + randomInrange);
+            }*/
+            
+
+
 
 
         }
