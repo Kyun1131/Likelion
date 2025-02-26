@@ -1,7 +1,0 @@
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion10\obj\Debug\LikeLion10.csproj.AssemblyReference.cache
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion10\obj\Debug\LikeLion10.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion10\bin\Debug\LikeLion10.exe.config
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion10\bin\Debug\LikeLion10.exe
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion10\bin\Debug\LikeLion10.pdb
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion10\obj\Debug\LikeLion10.exe
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion10\obj\Debug\LikeLion10.pdb

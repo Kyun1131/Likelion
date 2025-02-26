@@ -1,7 +1,0 @@
-C:\Users\user\Documents\GitHub\Likelion\LikeLion6\LikeLion5(Test)\bin\Debug\LikeLion5(Test).exe.config
-C:\Users\user\Documents\GitHub\Likelion\LikeLion6\LikeLion5(Test)\bin\Debug\LikeLion5(Test).exe
-C:\Users\user\Documents\GitHub\Likelion\LikeLion6\LikeLion5(Test)\bin\Debug\LikeLion5(Test).pdb
-C:\Users\user\Documents\GitHub\Likelion\LikeLion6\LikeLion5(Test)\obj\Debug\LikeLion5(Test).csproj.AssemblyReference.cache
-C:\Users\user\Documents\GitHub\Likelion\LikeLion6\LikeLion5(Test)\obj\Debug\LikeLion5(Test).csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\GitHub\Likelion\LikeLion6\LikeLion5(Test)\obj\Debug\LikeLion5(Test).exe
-C:\Users\user\Documents\GitHub\Likelion\LikeLion6\LikeLion5(Test)\obj\Debug\LikeLion5(Test).pdb

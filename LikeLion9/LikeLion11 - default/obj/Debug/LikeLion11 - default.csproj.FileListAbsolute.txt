@@ -1,7 +1,0 @@
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion11 - default\bin\Debug\LikeLion11 - default.exe.config
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion11 - default\bin\Debug\LikeLion11 - default.exe
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion11 - default\bin\Debug\LikeLion11 - default.pdb
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion11 - default\obj\Debug\LikeLion11 - default.csproj.AssemblyReference.cache
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion11 - default\obj\Debug\LikeLion11 - default.csproj.CoreCompileInputs.cache
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion11 - default\obj\Debug\LikeLion11 - default.exe
-C:\Users\user\Documents\GitHub\Likelion\LikeLion9\LikeLion11 - default\obj\Debug\LikeLion11 - default.pdb
