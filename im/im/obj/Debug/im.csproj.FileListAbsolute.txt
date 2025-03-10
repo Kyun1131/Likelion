@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\im\im\obj\Debug\im.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\im\im\obj\Debug\im.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\im\im\bin\Debug\im.exe.config
+C:\Users\user\Documents\GitHub\Likelion\im\im\bin\Debug\im.exe
+C:\Users\user\Documents\GitHub\Likelion\im\im\bin\Debug\im.pdb
+C:\Users\user\Documents\GitHub\Likelion\im\im\obj\Debug\im.exe
+C:\Users\user\Documents\GitHub\Likelion\im\im\obj\Debug\im.pdb

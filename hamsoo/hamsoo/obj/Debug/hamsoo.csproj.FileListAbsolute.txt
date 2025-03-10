@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\hamsoo\hamsoo\bin\Debug\hamsoo.exe.config
+C:\Users\user\Documents\GitHub\Likelion\hamsoo\hamsoo\bin\Debug\hamsoo.exe
+C:\Users\user\Documents\GitHub\Likelion\hamsoo\hamsoo\bin\Debug\hamsoo.pdb
+C:\Users\user\Documents\GitHub\Likelion\hamsoo\hamsoo\obj\Debug\hamsoo.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\hamsoo\hamsoo\obj\Debug\hamsoo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\hamsoo\hamsoo\obj\Debug\hamsoo.exe
+C:\Users\user\Documents\GitHub\Likelion\hamsoo\hamsoo\obj\Debug\hamsoo.pdb

@@ -29,8 +29,12 @@ namespace ClassIdle
             int costPerTry = 1000; // 강화 시도 비용
             int input;
             bool isAlive = true;
-            
+
             // 인트로
+
+            Console.SetCursorPosition(30, 11);
+            Console.WriteLine("★ 스트라이커 키우기 ★");
+            Thread.Sleep(10000);
             Console.SetCursorPosition(30, 11);
             Console.WriteLine("★ 스트라이커 키우기 ★");
             Thread.Sleep(500);

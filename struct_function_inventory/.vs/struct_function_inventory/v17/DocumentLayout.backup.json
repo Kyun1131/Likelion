@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Likelion\\struct_function_inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05A089BB-11FE-4349-B715-F55C129943F0}|struct_function_inventory\\struct_function_inventory.csproj|c:\\users\\user\\documents\\github\\likelion\\struct_function_inventory\\struct_function_inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05A089BB-11FE-4349-B715-F55C129943F0}|struct_function_inventory\\struct_function_inventory.csproj|solutionrelative:struct_function_inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Likelion\\struct_function_inventory\\struct_function_inventory\\Program.cs",
+              "RelativeDocumentMoniker": "struct_function_inventory\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Likelion\\struct_function_inventory\\struct_function_inventory\\Program.cs",
+              "RelativeToolTip": "struct_function_inventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T07:09:06.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

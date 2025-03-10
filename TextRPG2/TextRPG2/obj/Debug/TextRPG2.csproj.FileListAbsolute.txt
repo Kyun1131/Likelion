@@ -1,0 +1,2 @@
+C:\Users\user\Documents\GitHub\Likelion\TextRPG2\TextRPG2\obj\Debug\TextRPG2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\TextRPG2\TextRPG2\obj\Debug\TextRPG2.csproj.CoreCompileInputs.cache

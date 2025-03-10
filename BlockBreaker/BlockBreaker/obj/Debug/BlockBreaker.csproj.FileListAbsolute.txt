@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\BlockBreaker\BlockBreaker\bin\Debug\BlockBreaker.exe.config
+C:\Users\user\Documents\GitHub\Likelion\BlockBreaker\BlockBreaker\bin\Debug\BlockBreaker.exe
+C:\Users\user\Documents\GitHub\Likelion\BlockBreaker\BlockBreaker\bin\Debug\BlockBreaker.pdb
+C:\Users\user\Documents\GitHub\Likelion\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.exe
+C:\Users\user\Documents\GitHub\Likelion\BlockBreaker\BlockBreaker\obj\Debug\BlockBreaker.pdb

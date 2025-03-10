@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\2025_03_05_1-4\2025_03_05_1-4\bin\Debug\2025_03_05_1-4.exe.config
+C:\Users\user\Documents\GitHub\Likelion\2025_03_05_1-4\2025_03_05_1-4\bin\Debug\2025_03_05_1-4.exe
+C:\Users\user\Documents\GitHub\Likelion\2025_03_05_1-4\2025_03_05_1-4\bin\Debug\2025_03_05_1-4.pdb
+C:\Users\user\Documents\GitHub\Likelion\2025_03_05_1-4\2025_03_05_1-4\obj\Debug\2025_03_05_1-4.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\2025_03_05_1-4\2025_03_05_1-4\obj\Debug\2025_03_05_1-4.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\2025_03_05_1-4\2025_03_05_1-4\obj\Debug\2025_03_05_1-4.exe
+C:\Users\user\Documents\GitHub\Likelion\2025_03_05_1-4\2025_03_05_1-4\obj\Debug\2025_03_05_1-4.pdb

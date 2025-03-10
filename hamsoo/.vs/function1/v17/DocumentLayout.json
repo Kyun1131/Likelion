@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Likelion\\hamsoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A79D81-0130-4F48-9A79-6C07179804FF}|hamsoo\\hamsoo.csproj|c:\\users\\user\\documents\\github\\likelion\\hamsoo\\hamsoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A79D81-0130-4F48-9A79-6C07179804FF}|hamsoo\\hamsoo.csproj|solutionrelative:hamsoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Likelion\\hamsoo\\hamsoo\\Program.cs",
+              "RelativeDocumentMoniker": "hamsoo\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Likelion\\hamsoo\\hamsoo\\Program.cs",
+              "RelativeToolTip": "hamsoo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T06:01:57.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

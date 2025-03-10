@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\namespace1\namespace1\bin\Debug\namespace1.exe.config
+C:\Users\user\Documents\GitHub\Likelion\namespace1\namespace1\bin\Debug\namespace1.exe
+C:\Users\user\Documents\GitHub\Likelion\namespace1\namespace1\bin\Debug\namespace1.pdb
+C:\Users\user\Documents\GitHub\Likelion\namespace1\namespace1\obj\Debug\namespace1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\namespace1\namespace1\obj\Debug\namespace1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\namespace1\namespace1\obj\Debug\namespace1.exe
+C:\Users\user\Documents\GitHub\Likelion\namespace1\namespace1\obj\Debug\namespace1.pdb

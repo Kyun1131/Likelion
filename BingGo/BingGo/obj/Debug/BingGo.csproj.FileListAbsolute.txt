@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\BingGo\BingGo\bin\Debug\BingGo.exe.config
+C:\Users\user\Documents\GitHub\Likelion\BingGo\BingGo\bin\Debug\BingGo.exe
+C:\Users\user\Documents\GitHub\Likelion\BingGo\BingGo\bin\Debug\BingGo.pdb
+C:\Users\user\Documents\GitHub\Likelion\BingGo\BingGo\obj\Debug\BingGo.csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\BingGo\BingGo\obj\Debug\BingGo.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\BingGo\BingGo\obj\Debug\BingGo.exe
+C:\Users\user\Documents\GitHub\Likelion\BingGo\BingGo\obj\Debug\BingGo.pdb

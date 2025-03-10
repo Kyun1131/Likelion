@@ -1,0 +1,7 @@
+C:\Users\user\Documents\GitHub\Likelion\Test(1)\Test(1)\bin\Debug\Test(1).exe.config
+C:\Users\user\Documents\GitHub\Likelion\Test(1)\Test(1)\bin\Debug\Test(1).exe
+C:\Users\user\Documents\GitHub\Likelion\Test(1)\Test(1)\bin\Debug\Test(1).pdb
+C:\Users\user\Documents\GitHub\Likelion\Test(1)\Test(1)\obj\Debug\Test(1).csproj.AssemblyReference.cache
+C:\Users\user\Documents\GitHub\Likelion\Test(1)\Test(1)\obj\Debug\Test(1).csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\Likelion\Test(1)\Test(1)\obj\Debug\Test(1).exe
+C:\Users\user\Documents\GitHub\Likelion\Test(1)\Test(1)\obj\Debug\Test(1).pdb
