@@ -8,7 +8,7 @@ using System.Xml.Serialization;
 
 namespace im
 {
-    public class Base
+    /*public class Base
     {
         public string Name;
         public int Attack;
@@ -55,13 +55,13 @@ namespace im
         }
 
     }
-    
+
     public class Monster : Base
     {
         public Monster(string name, int atk, int hp) : base(name, atk, hp)
         {
         }
-         public static Monster SelectMonster(int fieldChoice)
+        public static Monster SelectMonster(int fieldChoice)
         {
             switch (fieldChoice)
             {
@@ -85,7 +85,7 @@ namespace im
             {
                 Console.Clear();
                 Console.WriteLine("사냥터를 선택하세요 (1.숲 | 2.바다 | 3.도시)");
-                if(int.TryParse(Console.ReadLine(), out int fieldChoice) && fieldChoice >= 1 && fieldChoice <=3 )
+                if (int.TryParse(Console.ReadLine(), out int fieldChoice) && fieldChoice >= 1 && fieldChoice <= 3)
                 {
                     _mon = Monster.SelectMonster(fieldChoice);
                     //Battle(fieldChoice);
@@ -117,7 +117,7 @@ namespace im
                 Console.Clear();
                 _player.Render();
                 Console.WriteLine("1.사냥 | 2.종료");
-                if(int.TryParse(Console.ReadLine(), out int input) || input < 1 || input > 2)
+                if (int.TryParse(Console.ReadLine(), out int input) || input < 1 || input > 2)
                 {
                     Console.WriteLine("올바른 숫자를 입력해 주세요 (1~2)");
                     continue;
@@ -132,18 +132,21 @@ namespace im
     }
 
 
-
+*/
     class Program
     {
 
 
 
-         
+
         static void Main(string[] args)
         {
-            MainGame game = new MainGame();
-            game.Initialize();
-            game.Run();
+            //MainGame game = new MainGame();
+            //game.Initialize();
+            //game.Run();
+
+
+            Console.WriteLine(10/3);
         }
     }
 }
